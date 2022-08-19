@@ -5,7 +5,7 @@
 - 🌱 Estou desenvolvedo minhas habilidades em: 
 - Linguagens -> JavaScript/TypeScript -> PHP; ->HTML E CSS; 
 - Frameworks -> Angular e Laravel; 
-- Banco de dados -> SQL; 
+- Banco de dados -> MySQL; 
 - Versionamento -> GitKraken;
 
 - 📫 Contate-me no email: luiswback@gmail.com;
