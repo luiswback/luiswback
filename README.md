@@ -2,7 +2,12 @@
 
 
 - 🔭 Atualmente estou trabalhando na empresa iopoint - Ponto Eletrônico Inteligente.
-- 🌱 Estou desenvolvedo minhas habilidades em: Linguagens -> JavaScript/TypeScript -> PHP; ->HTML E CSS Frameworks -> Angular e Laravel; Banco de dados -> SQL; versionamento -> GitKraken;
+- 🌱 Estou desenvolvedo minhas habilidades em: 
+- Linguagens -> JavaScript/TypeScript -> PHP; ->HTML E CSS; 
+- Frameworks -> Angular e Laravel; 
+- Banco de dados -> SQL; 
+- Versionamento -> GitKraken;
+
 - 📫 Contate-me no email: luiswback@gmail.com;
 - 📖 Atualmente estou cursando: -  Gestão em Segurança e Defesa cibernética;
 
