@@ -6,7 +6,7 @@
 - Linguagens -> JavaScript/TypeScript -> PHP; ->HTML E CSS; 
 - Frameworks -> Angular e Laravel; 
 - Banco de dados -> MySQL; 
-- Versionamento -> GitKraken;
+- Versionamento -> Git;
 
 - 📫 Contate-me no email: luiswback@gmail.com;
 - 📖 Atualmente estou cursando: -  Gestão em Segurança e Defesa cibernética;
