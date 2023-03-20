@@ -9,7 +9,7 @@
 - Versionamento -> Git;
 
 - 📫 Contate-me no email: luiswback@gmail.com;
-- 📖 Atualmente estou cursando: -  Gestão em Segurança e Defesa cibernética;
+- 📖 Graduação: -  Gestão em Segurança e Defesa cibernética;
 
 <div align="center" margin-bottom: 50px>
   <a href="https://github.com/luiswback?tab=repositories">
